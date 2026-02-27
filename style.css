@@ -1,13 +1,13 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background-color: #e0e0e0;
+    background-color: grey;
     color: black;
 }
 
 /* Header */
 header {
-    background-color: #e0e0e0;
+    background-color: grey;
     padding: 20px;
     text-align: center;
 }
@@ -79,7 +79,7 @@ button:hover {
 
 /* Footer */
 footer {
-    background-color: #e0e0e0;
+    background-color: grey;
     text-align: center;
     padding: 15px;
 }
