@@ -38,6 +38,7 @@ section {
     padding: 50px;
     text-align: center;
     border-bottom: 1px solid #ddd;
+   /* background-color: transparent; */
 
 }
 
@@ -49,7 +50,7 @@ button {
     padding: 10px 20px;
     margin-top: 15px;
     cursor: pointer;
-    transition: background-color 0.3s ease;
+    /* transition: background-color 0.3s ease; */
 }
 
 button:hover {
