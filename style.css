@@ -30,7 +30,7 @@ nav a {
 }
 
 nav a:hover {
-    color: white;
+    color: black;
 }
 
 /* Sections */
@@ -38,7 +38,6 @@ section {
     padding: 50px;
     text-align: center;
     border-bottom: 1px solid #ddd;
-    background-color: transparent; /* ensures grey shows */
 
 }
 
