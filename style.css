@@ -1,13 +1,13 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background-color: #E6E6FA;
+    background-color: #F5F5F5;
     color: black;
 }
 
 /* Header */
 header {
-    background-color: #E6E6FA;
+    background-color: #F5F5F5;
     padding: 20px;
     text-align: center;
 }
