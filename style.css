@@ -1,13 +1,13 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background-color: skyblue;
+    background-color: #E6E6FA;
     color: black;
 }
 
 /* Header */
 header {
-    background-color: skyblue;
+    background-color: #E6E6FA;
     padding: 20px;
     text-align: center;
 }
@@ -79,7 +79,7 @@ button:hover {
 
 /* Footer */
 footer {
-    background-color: skyeblue;
+    background-color: #E6E6FA;
     text-align: center;
     padding: 15px;
 }
